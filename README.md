@@ -6,7 +6,7 @@ This repository contains a machine learning project that predicts median house v
 
 ## 📁 Dataset
 
-- **Source**: California Housing dataset (available via `sklearn.datasets.fetch_california_housing` or Kaggle/CSV)
+- **Source**: California Housing dataset (available via `(https://www.kaggle.com/datasets/camnugent/california-housing-prices)` on Kaggle/CSV)
 - **Features include**:
   - Geographical: `longitude`, `latitude`
   - Housing: `housing_median_age`, `total_rooms`, `total_bedrooms`, `population`, `households`

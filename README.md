@@ -64,10 +64,9 @@ Best model performance (XGBoost with Grid Search):
 - Python 3.8+
 - scikit-learn
 - xgboost
-- lightgbm
 - pandas
 - matplotlib / seaborn
-- jupyter notebook (optional)
+- jupyter notebook / vscode
 
 Install all dependencies with:
 

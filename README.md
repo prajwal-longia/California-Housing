@@ -1,5 +1,3 @@
-# California-Housin
-
 # 🏡 California Housing Price Prediction
 
 This repository contains a machine learning project that predicts median house values in California using the California Housing dataset. The project includes data cleaning, feature engineering, exploratory data analysis (EDA), model building, and hyperparameter tuning with various algorithms including Linear Regression, Random Forest, XGBoost, and LightGBM.
